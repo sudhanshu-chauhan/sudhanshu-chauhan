@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning `Data Science`
 - 👯 I’m looking to collaborate on `Open Source Projects relevant to Data Engineering`
 - 📫 How to reach me: mailbox.sud@gmail.com
-- 😄 Pronouns: `Alag`, `minimalcrap`, `sud`
+- 😄 Pronouns: `minimalcrap`, `sud`
 - ⚡ Fun fact: I get coding ideas from weird dreams that I see.
